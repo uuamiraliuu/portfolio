@@ -231,7 +231,7 @@ const Projects = () => {
     <section id="work" className="py-20 px-4 md:px-12 relative">
       <div className="max-w-6xl mx-auto">
         <h2 className="text-4xl font-handwriting font-bold mb-12 text-center">
-          Selected Projects
+          Top Projects
           <span className="block text-lg font-normal text-gray-500 mt-2">Things I'm proud of</span>
         </h2>
         
