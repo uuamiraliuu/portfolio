@@ -264,7 +264,7 @@ const SkillsAndServices = () => {
     <section id="services" className="py-20 px-4 md:px-12 bg-[#fdfbf7]">
       <div className="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-16">
         <div>
-          <h3 className="text-3xl font-handwriting font-bold mb-8 border-b-2 border-black inline-block border-dashed pb-2">My Toolkit</h3>
+          <h3 className="text-3xl font-handwriting font-bold mb-8 border-b-2 border-black inline-block border-dashed pb-2">My Skills</h3>
           <div className="flex flex-wrap gap-4">
             {skills.map((skill, i) => (
               <div key={i} className="relative group">
